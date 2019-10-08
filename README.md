@@ -109,11 +109,31 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+#### a star pattern with the middle missing then every other led named firework
 
 ### SS 2 
 
-_[And so on]_
+#### diagonal line that moves from right to left named wave
 
-## Demo URL
+### SS 3 
+
+#### veritical line from right to left named sweep
+
+### SS 4 
+
+#### horizontal line that assends named rising tide
+
+### SS 5 
+
+#### led in the middle then boxes named splash
+
+
+#### side note was more interesting than I had orginally intended,
+#### because multiple triggers are active.
+#### Then it shuffles between the animations.
+#### It might be fun to have someone not trigger the fireworks animation since it is attached to the shake jesture.
+#### known bug leftover animations after the sleep mode is disabled likely because it was interupted and it was leftover on the stack.
+
+
+## Demo URLhttps://imgur.com/a/doZ1Kwr
 
